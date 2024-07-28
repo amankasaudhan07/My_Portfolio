@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/amankasaudhan07",
   resume:
-    "https://drive.google.com/file/d/19SjKY7G1q0E_Lh0lgaLRfiT0dZrN3VNf/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1GXF8w3JTOWBLXi0F7ZasKnDlpGPQuxkm/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/amankumargupta107",
   twitter: "https://twitter.com/Amangupta32900732",
   insta: "https://www.instagram.com/aman_kasaudhan_07/",
@@ -93,7 +93,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://banner2.cleanpng.com/20190130/bzb/kisspng-git-merge-branching-version-control-commit-improved-git-management-5c52287a5e9491.9117513715488881863874.jpg",
       },
       {
         name: "GitHub",
@@ -109,7 +109,7 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://w7.pngwing.com/pngs/28/245/png-transparent-postman-hd-logo-thumbnail.png",
       },
      
     ],
@@ -147,6 +147,25 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 6,
+    title: "Ecomzy ",
+    date: "june 2024 - July 2024",
+    description:
+      "Ecomzy is a modern e-commerce platform built with Express.js and React, offering secure user authentication, advanced filtering options, and a seamless add-to-cart experience. The site features detailed product pages, and a secure payment gateway supporting multiple payment methods. Users can manage their profiles, track orders, and use wishlists, while admins have robust tools for managing products and orders. Ecomzy ensures a comprehensive and user-friendly shopping experience with cutting-edge web technologies. ",
+    image:
+      "https://github.com/amankasaudhan07/image/blob/main/Screenshot%202024-07-27%20233753.png?raw=true",
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      
+    ],
+    category: "Mern Stack",
+    github: "https://github.com/amankasaudhan07/ecomzy_frontend",
+    webapp: "https://ecomzy-frontend-chi.vercel.app/",
+  },
   {
     id: 4,
     title: "Blog-App ",
