@@ -121,9 +121,9 @@ export const education = [
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYpryr5bOPJUj4qXFr5XnCYHtM5ik6_TsUg&s",
     school: "Madan Mohan Malaviya University Of Technology Gorakhpur",
-    date: "Oct 2021 - Sep 2025",
-    grade: "7.96 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Madan Mohan Malaviya University Of Technology Gorakhpur. I have completed 5 semesters and have a CGPA of 7.96. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
+    date: "Oct 2021 - Jul 2025",
+    grade: "7.97 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Madan Mohan Malaviya University Of Technology Gorakhpur. I have completed 6 semesters and have a CGPA of 7.97. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
