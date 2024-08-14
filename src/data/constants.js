@@ -186,6 +186,25 @@ export const projects = [
     webapp: "https://my-blog-frontend-ashy.vercel.app/",
   },
   {
+    id: 7,
+    title: "Chit-chat ",
+    date: "July 2024 - August 2024",
+    description:
+      "This project entails creating a group chat app that enables users to connect within a shared space identified by a unique room ID. Beyond standard text messaging, the app facilitates real-time image sharing, allowing for dynamic and engaging group conversations.",
+    image:
+      "https://github.com/amankasaudhan07/image/blob/main/Screenshot%202024-08-14%20211956.png?raw=true",
+    tags: [
+      "React Js",
+      "Node Js",
+      "Express Js",
+      "Socket.io",
+      "Css"
+    ],
+    category: "Mern Stack",
+    github: "https://github.com/amankasaudhan07/Chat-App",
+    webapp: "https://chat-app-eight-ashen.vercel.app/",
+  },
+  {
     id: 0,
     title: "Weather-detector",
     date: "Jan 2024 - Feb 2024",
