@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/amankasaudhan07",
   resume:
-    "https://drive.google.com/file/d/1NUS8eADH6iUArylt4UTnv1OYOdmLD2bv/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1tw9EcdrtR73hnBLxGf7Ljs4dMTqKtVpo/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/amankumargupta107",
   twitter: "https://twitter.com/Amangupta32900732",
   insta: "https://www.instagram.com/aman_kasaudhan_07/",
@@ -121,8 +121,8 @@ export const education = [
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYpryr5bOPJUj4qXFr5XnCYHtM5ik6_TsUg&s",
     school: "Madan Mohan Malaviya University Of Technology Gorakhpur",
-    date: "Oct 2021 - Sep 2025",
-    grade: "7.96 CGPA",
+    date: "Oct 2021 - May 2025",
+    grade: "7.97 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Madan Mohan Malaviya University Of Technology Gorakhpur. I have completed 5 semesters and have a CGPA of 7.96. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
@@ -147,6 +147,26 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 8,
+    title: "Omegle 2.O",
+    date: "june 2024 - Ongoing",
+    description:
+      "Built a real-time chat application supporting 100+ users, offering anonymous random matching for zero-login chats and friend-based messaging for registered users. Implemented one-on-one and group chat features with real-time text, image, and video sharing, handling 1,000+ concurrent sessions and 50MB+ media uploads. Enhanced with authentication, account creation, and a friend system, facilitating 50+ friend requests daily.",
+    image:
+      "https://github.com/amankasaudhan07/image/blob/main/Screenshot%202024-11-06%20210928.png",
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Socket.IO"
+      
+    ],
+    category: "Mern Stack",
+    github: "https://github.com/amankasaudhan07/Omegle-2.O",
+    webapp: "https://omegle-2-o.vercel.app/",
+  }, 
   {
     id: 6,
     title: "Ecomzy ",
