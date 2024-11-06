@@ -156,7 +156,7 @@ export const projects = [
     description:
       "Built a real-time chat application supporting 100+ users, offering anonymous random matching for zero-login chats and friend-based messaging for registered users. Implemented one-on-one and group chat features with real-time text, image, and video sharing, handling 1,000+ concurrent sessions and 50MB+ media uploads. Enhanced with authentication, account creation, and a friend system, facilitating 50+ friend requests daily.",
     image:
-      "https://github.com/amankasaudhan07/image/blob/main/Screenshot%202024-11-06%20210928.png",
+      "https://github.com/amankasaudhan07/image/blob/main/Screenshot%202024-11-06%20210928.png?raw=true",
     tags: [
       "React Js",
       "MongoDb",
