@@ -1,6 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
+<<<<<<< HEAD
 
 ## Some Images:
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
@@ -9,6 +10,8 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
+=======
+>>>>>>> cdef9bd4965060091e161af034db4fb012bc44e2
 
 
 ## Table of Contents

@@ -9,8 +9,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/amankasaudhan07",
-  resume:
-    "https://drive.google.com/file/d/1tw9EcdrtR73hnBLxGf7Ljs4dMTqKtVpo/view?usp=drivesdk",
+  resume: "https://drive.google.com/file/d/1tw9EcdrtR73hnBLxGf7Ljs4dMTqKtVpo/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/amankumargupta107",
   twitter: "https://twitter.com/Amangupta32900732",
   insta: "https://www.instagram.com/aman_kasaudhan_07/",
@@ -124,6 +123,9 @@ export const education = [
     date: "Oct 2021 - May 2025",
     grade: "7.97 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Madan Mohan Malaviya University Of Technology Gorakhpur. I have completed 5 semesters and have a CGPA of 7.96. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
+    date: "Oct 2021 - Jul 2025",
+    grade: "7.97 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Madan Mohan Malaviya University Of Technology Gorakhpur. I have completed 6 semesters and have a CGPA of 7.97. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. ",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
